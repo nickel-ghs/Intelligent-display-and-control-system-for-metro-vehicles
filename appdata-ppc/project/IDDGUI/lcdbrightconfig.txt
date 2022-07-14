@@ -1,0 +1,7 @@
+#PROMPT: lcdlevel lcdBrightValue lcdBrightMin lcdBrightMax envBrightMin envBrightMax envBrightValue
+KEYBRIGHTINFO: 2000 50
+TOTALLEVEL: 3
+GAP: 50
+LEVEL: 1 140 140 250 0 800 0 
+LEVEL: 2 100 80 140 800 2200 0 
+LEVEL: 3 40  0   80 2200 65535 0 
