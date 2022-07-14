@@ -63,11 +63,3 @@
 |                      |                                          |                   |                             |                                                              |
 |                      |                                          |                   |                             |                                                              |
 
-
-
-# Intelligent-display-and-control-system-for-metro-vehicles
-# Intelligent-display-and-control-system-for-metro-vehicles
-# Intelligent-display-and-control-system-for-metro-vehicles
-# Intelligent-display-and-control-system-for-metro-vehicles
-# Intelligent-display-and-control-system-for-metro-vehicles
-# Intelligent-display-and-control-system-for-metro-vehicles
