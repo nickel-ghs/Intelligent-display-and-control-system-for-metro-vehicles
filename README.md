@@ -18,7 +18,7 @@
 |                      |                                          |                   |                             |                                                              |
 |                      |                                          |                   |                             |                                                              |
 |        主界面        |                                          |                   |                             |                                                              |
-| wrong.cxx&wrong1.cxx |               事件信息界面               |     [有问题]      |                             | file/event.bin：记录错误   wrong.txt:错误日志   guide.txt:错误解决方法,只读 |
+| wrong.cxx&wrong1.cxx |               事件信息界面               |        |                             | file/event.bin：记录错误   wrong.txt:错误日志   guide.txt:错误解决方法,只读 |
 |         none         |                 设置界面                 |                   |                             |                                                              |
 |      login.cxx       |                 维护界面                 |                   |                             |                                                              |
 |   network_data.cxx   |               网络拓扑界面               |                   |                             |                                                              |
@@ -31,7 +31,7 @@
 |    brightness.cxx    |  设置界面"亮度/声音"亮度调节的回调函数   |                   |                             |                                                              |
 | Broadcast_Switch.cxx |           设置界面---广播设置            |                   |                             |                                                              |
 |    BrakeCheck.cxx    |           设置界面---制动自检            |                   |                             |                                                              |
-|    transport.cxx     |           设置界面---运输模式            |    【有错误】     |                             |      transport.cxx与ver.cxx完全一样，运输模式功能未完成      |
+|    transport.cxx     |           设置界面---运输模式            |     |                             |          |
 |                      |                                          |                   |                             |                                                              |
 |                      |                                          |                   |                             |                                                              |
 |       维护界面       |                                          |                   |                             |                                                              |
@@ -48,7 +48,7 @@
 |       io_C.cxx       |                  M车DXM                  |                   |                             |                                                              |
 |  DCU.cxx&DCU_M.cxx   |       DCU界面:发动机的控制单元故障       |                   |                             |                                                              |
 |     diameter.cxx     |               轮径设置界面               |                   |                             |      diameterlist.txt:存放TC1,TC2,Mp1,Mp2,M1,M2车的轮径      |
-|     portdata.cxx     |                 端口数据                 |    【有问题】     |                             |                                                              |
+|     portdata.cxx     |                 端口数据                 |         |                             |                                                              |
 |      CarID.cxx       |            维护界面的车号界面            |                   |                             |                                                              |
 |   acceleration.cxx   |                加速度测试                |                   |                             |                                                              |
 |     set_cab.cxx      |              操作端设置界面              |                   |                             | train.txt存放操作端为1/2端    Set_Cab.txt当"设置为1端"或"设置为2端"按钮锁定时为1,否则为0; |
